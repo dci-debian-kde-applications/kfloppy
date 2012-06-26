@@ -21,6 +21,6 @@ Architecture: any
 Section: utils
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: floppy formatter
- Kfloppy is a utility for formatting flopy disks.
+ Kfloppy is a utility for formatting floppy disks.
  .
  This package is part of the KDE SC utilities module.
