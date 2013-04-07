@@ -1,10 +1,10 @@
-kfloppy (4:4.10.2-1) UNRELEASED; urgency=low
+kfloppy (4:4.10.2-1) experimental; urgency=low
 
   * New upstream.
   * Update uploaders.
   * Bump build-deps.
 
- -- Sune Vuorela <sune@debian.org>  Sun, 07 Apr 2013 23:05:47 +0000
+ -- Sune Vuorela <sune@debian.org>  Sun, 07 Apr 2013 23:07:03 +0000
 
 kfloppy (4:4.8.4-1) unstable; urgency=low
 
