@@ -1,7 +1,7 @@
 Source: kfloppy
 Section: kde
 Priority: optional
-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 Uploaders: Fathi Boudra <fabo@debian.org>,
            Sune Vuorela <sune@debian.org>,
            Modestas Vainius <modax@debian.org>,
@@ -16,8 +16,8 @@ Build-Depends: cmake,
                pkg-kde-tools (>= 0.12)
 Standards-Version: 3.9.5
 Homepage: http://www.kde.org
-Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/kde-sc/kfloppy.git
-Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-sc/kfloppy.git
+Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/kde-applications/kfloppy.git
+Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-applications/kfloppy.git
 
 Package: kfloppy
 Architecture: any
@@ -26,4 +26,4 @@ Depends: ${misc:Depends}, ${shlibs:Depends}
 Description: floppy formatter
  Kfloppy is a utility for formatting floppy disks.
  .
- This package is part of the KDE SC utilities module.
+ This package is part of the KDE applications utilities module.
