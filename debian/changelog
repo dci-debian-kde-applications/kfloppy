@@ -1,12 +1,13 @@
-kfloppy (4:15.04.3-1~) UNRELEASED; urgency=medium
+kfloppy (4:15.04.3-1) experimental; urgency=medium
 
+  * Team upload.
   * New upstream release (15.04.3).
   * Fix watch urls for new release location.
   * Add lintian overrides.
   * Bump Standards-Version to 3.9.6, no changes needed.
   * Remove duplicate 'GFDL-NIV-1.2+' license in debian/copyright.
 
- -- Jeremy Lainé <jeremy.laine@m4x.org>  Tue, 28 Jul 2015 15:00:37 +0200
+ -- Jeremy Lainé <jeremy.laine@m4x.org>  Tue, 28 Jul 2015 15:19:47 +0200
 
 kfloppy (4:4.12.2-2) unstable; urgency=medium
 
