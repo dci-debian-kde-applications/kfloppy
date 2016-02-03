@@ -1,3 +1,16 @@
+kfloppy (4:15.12.1-0ubuntu1) UNRELEASED; urgency=medium
+
+  * Debian merge: No remaining changes.
+  * New upstream release. 
+
+ -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 03 Feb 2016 09:27:26 -0800
+
+kfloppy (4:15.12.0-1) experimental; urgency=medium
+
+  * New upstream release (15.12.0).
+
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 01 Feb 2016 10:23:25 +0100
+
 kfloppy (4:15.12.0-0ubuntu1) UNRELEASED; urgency=medium
 
   * New upstream release
@@ -16,6 +29,12 @@ kfloppy (4:15.08.1-0ubuntu1) wily; urgency=medium
 
  -- Clive Johnston <clivejo@aol.com>  Tue, 22 Sep 2015 16:50:22 +0100
 
+kfloppy (4:15.08.0-1) unstable; urgency=medium
+
+  * New upstream release (15.08.0).
+
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 19 Sep 2015 19:11:09 +0200
+
 kfloppy (4:15.08.0-0ubuntu1) wily; urgency=medium
 
   * new upstream release
@@ -27,6 +46,17 @@ kfloppy (4:15.07.90-0ubuntu1) wily; urgency=medium
   * new upstream beta release
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 18 Aug 2015 09:49:38 +0100
+
+kfloppy (4:15.04.3-1) experimental; urgency=medium
+
+  * Team upload.
+  * New upstream release (15.04.3).
+  * Fix watch urls for new release location.
+  * Add lintian overrides.
+  * Bump Standards-Version to 3.9.6, no changes needed.
+  * Remove duplicate 'GFDL-NIV-1.2+' license in debian/copyright.
+
+ -- Jeremy Lainé <jeremy.laine@m4x.org>  Tue, 28 Jul 2015 15:19:47 +0200
 
 kfloppy (4:15.04.2-0ubuntu1) wily; urgency=medium
 
