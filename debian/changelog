@@ -1,3 +1,12 @@
+kfloppy (4:16.04.0-1~1.gbpa85843) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @a8584330112351a692ef801b57b92a4c44a677a1 **
+
+  * Bump Standards-Version to 3.9.8
+  * Update build-deps and deps with the info from cmake
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 21 Apr 2016 01:01:11 +0200
+
 kfloppy (4:15.12.0-1) experimental; urgency=medium
 
   * New upstream release (15.12.0).
