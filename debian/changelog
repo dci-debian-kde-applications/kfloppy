@@ -1,5 +1,7 @@
 kfloppy (4:16.04.0-2) UNRELEASED; urgency=medium
 
+  [ Pino Toscano ]
+  * Remove unused kde-sc-dev-latest and kdelibs5-dev build dependencies.
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Fri, 10 Jun 2016 15:50:53 +0200
 
