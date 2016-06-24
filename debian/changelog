@@ -1,3 +1,11 @@
+kfloppy (4:16.04.0-3~1.gbp70953b) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @70953b3e6329aefd259b08ba1ffc85176b649e9a **
+
+  * Update changelog for 4:16.04.0-2 release
+
+ -- Maximiliano Curia <maxy@gnuservers.com.ar>  Fri, 24 Jun 2016 10:01:12 +0200
+
 kfloppy (4:16.04.0-2) unstable; urgency=medium
 
   [ Pino Toscano ]
