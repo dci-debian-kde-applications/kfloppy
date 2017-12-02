@@ -13,6 +13,9 @@ kfloppy (4:17.08.3-0r1) UNRELEASED; urgency=medium
     drop translations.
   * Bump Standards-Version to 4.1.1, no changes required.
   * Simplify watch file, and switch it to https.
+  * Update the build dependencies:
+    - add libkf5crash-dev, optionally used for crash reporting
+    - remove unused: libkf5kdelibs4support-dev, and libkf5kio-dev
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 31 Oct 2017 18:00:42 +0100
 
