@@ -1,4 +1,6 @@
-kfloppy (4:17.08.3-0r1) UNRELEASED; urgency=medium
+kfloppy (4:17.08.3-1) unstable; urgency=medium
+
+  * Team upload.
 
   [ Maximiliano Curia ]
   * New upstream release (17.08.1)
@@ -17,7 +19,7 @@ kfloppy (4:17.08.3-0r1) UNRELEASED; urgency=medium
     - add libkf5crash-dev, optionally used for crash reporting
     - remove unused: libkf5kdelibs4support-dev, and libkf5kio-dev
 
- -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 31 Oct 2017 18:00:42 +0100
+ -- Pino Toscano <pino@debian.org>  Sat, 02 Dec 2017 15:12:14 +0100
 
 kfloppy (4:17.08.1-0neon) xenial; urgency=medium
 
